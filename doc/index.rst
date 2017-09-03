@@ -74,7 +74,7 @@ A simple python test programme:
 .. code-block:: python
 
   from Lima import Andor
-  from lima import Core
+  from Lima import Core
 
   # -------------------+--------------------------------------------+
   #                    |                                            |
